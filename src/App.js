@@ -1,11 +1,11 @@
 import './App.css';
-import Api from './components/Api';
+import Get from './components/card';
 
 
 function App() {
   return (
     <div className="App">
-<Api/>
+<Get/>
       </div>
 
   
