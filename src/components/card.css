@@ -1,0 +1,31 @@
+.wrapper {
+    display: grid;
+    padding: 10%;
+    grid-template-columns: 2fr 2fr;
+
+    grid-gap: 5px 1px;
+  }
+  .logo {
+    float: left;
+  }
+  
+  .product-icon {
+    float: right;
+  }
+  .cards {
+    border: 1px solid #dfdfdf;
+    padding: 3rem;
+  }
+  
+  hr.new1 {
+    border-top: 5px solid #dfdfdf;
+  }
+  
+  .title {
+    margin-top: 40%;
+    color: white;
+  }
+  
+  .desc {
+    color: white;
+  }
